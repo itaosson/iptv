@@ -197,7 +197,7 @@ http://192.168.90.1:8686/rtp/226.0.1.111:3183
 http://192.168.90.1:8686/rtp/226.0.1.112:3185
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视频道",女性时尚
 http://192.168.90.1:8686/rtp/226.0.1.210:2128
-#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png.png" group-title="数字频道",梨园
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字频道",梨园
 http://192.168.90.1:8686/rtp/226.0.1.115:3219
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://live.fanmingming.com/tv/国学.png" group-title="数字频道",国学
 http://192.168.90.1:8686/rtp/226.0.1.116:3192
