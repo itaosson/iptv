@@ -179,7 +179,7 @@ http://192.168.90.1:8686/rtp/226.0.1.171:2115
 http://192.168.90.1:8686/rtp/226.0.1.99:3193
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",央视台球
 http://192.168.90.1:8686/rtp/226.0.1.181:2118
-#EXTINF:-1,tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="数字频道",书画
+#EXTINF:-1,tvg-id="书画" tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="数字频道",书画
 http://192.168.90.1:8686/rtp/226.0.1.102:3186
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字频道",中国天气
 http://192.168.90.1:8686/rtp/226.0.1.103:2120
