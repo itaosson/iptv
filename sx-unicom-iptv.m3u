@@ -129,7 +129,7 @@ http://192.168.90.1:8686/rtp/226.0.1.203:2086
 http://192.168.90.1:8686/rtp/226.0.1.90:2078
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
 http://192.168.90.1:8686/rtp/226.0.1.57:3059
-#EXTINF:-1,tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://epg.112114.xyz/logo/CHC家庭电影.png" group-title="其他",CHC家庭电影
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
 http://192.168.90.1:8686/rtp/226.0.1.108:2096
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
 http://192.168.90.1:8686/rtp/226.0.1.109:2097
