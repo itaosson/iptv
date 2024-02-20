@@ -115,11 +115,11 @@ http://192.168.90.1:8686/rtp/226.0.1.188:3116
 http://192.168.90.1:8686/rtp/226.0.1.44:3016
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="山东",山东教育
 http://192.168.90.1:8686/rtp/226.0.1.130:3145
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="卫视频道",CETV-1
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
 http://192.168.90.1:8686/rtp/226.0.1.191:3114
-#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/中国教育台2.png" group-title="卫视频道",CETV-2
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV-2
 http://192.168.90.1:8686/rtp/226.0.1.69:3040
-#EXTINF:-1,tvg-id="中国教育台-4HD" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/中国教育台4.png" group-title="卫视频道",CETV-4
+#EXTINF:-1,tvg-id="中国教育台-4HD" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://192.168.90.1:8686/rtp/226.0.1.221:2084
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="上海",上海纪实HD
 http://192.168.90.1:8686/rtp/226.0.1.202:2085
