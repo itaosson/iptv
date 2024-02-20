@@ -9,7 +9,7 @@ http://192.168.90.1:8686/rtp/226.0.1.81:2003
 http://192.168.90.1:8686/rtp/226.0.1.82:2004
 #EXTINF:-1,tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="山西",山西社会与法治HD
 http://192.168.90.1:8686/rtp/226.0.1.83:2005
-#EXTINF:-1,tvg-id="山西文体生活HD" tvg-name="山西文体生活HD" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活HD
+#EXTINF:-1,tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活HD
 http://192.168.90.1:8686/rtp/226.0.1.200:2006
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1HD
 http://192.168.90.1:8686/rtp/226.0.1.157:3086
