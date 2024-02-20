@@ -157,11 +157,11 @@ http://192.168.90.1:8686/rtp/226.0.1.196:2101
 http://192.168.90.1:8686/rtp/226.0.1.198:2103
 #EXTINF:-1,tvg-id="证券服务" tvg-name="证券服务" tvg-logo="https://live.fanmingming.com/tv/证券服务.png" group-title="其他",证券服务
 http://192.168.90.1:8686/rtp/226.0.1.71:2104
-#EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://live.fanmingming.com/tv/江西电视指南.png" group-title="央视",电视指南HD
+#EXTINF:-1,tvg-id="江西电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视频道",电视指南
 http://192.168.90.1:8686/rtp/226.0.1.161:2105
 #EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="其他",发现之旅
 http://192.168.90.1:8686/rtp/226.0.1.61:2106
-#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://live.fanmingming.com/tv/央视精品.png" group-title="央视",央视精品HD
+#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视频道",文化精品
 http://192.168.90.1:8686/rtp/226.0.1.162:2108
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐HD
 http://192.168.90.1:8686/rtp/226.0.1.164:2109
