@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视HD
 http://192.168.90.1:8686/rtp/226.0.1.85:2001
 #EXTINF:-1,tvg-id="山西黄河HD" tvg-name="山西黄河HD" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河HD
