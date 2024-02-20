@@ -121,7 +121,7 @@ http://192.168.90.1:8686/rtp/226.0.1.191:3114
 http://192.168.90.1:8686/rtp/226.0.1.69:3040
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://192.168.90.1:8686/rtp/226.0.1.221:2084
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="上海",上海纪实HD
+#EXTINF:-1,tvg-id="纪实人文" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="其他",纪实人文
 http://192.168.90.1:8686/rtp/226.0.1.202:2085
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他",金鹰纪实HD
 http://192.168.90.1:8686/rtp/226.0.1.203:2086
