@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://192.168.90.1:8686/rtp/226.0.1.85:2001
-#EXTINF:-1,tvg-id="黄河卫视" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河HD
+#EXTINF:-1,tvg-id="黄河卫视" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河
 http://192.168.90.1:8686/rtp/226.0.1.84:2002
-#EXTINF:-1,tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="山西",山西经济与科技HD
+#EXTINF:-1,tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="山西",山西经济与科技
 http://192.168.90.1:8686/rtp/226.0.1.81:2003
-#EXTINF:-1,tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视HD
+#EXTINF:-1,tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视
 http://192.168.90.1:8686/rtp/226.0.1.82:2004
-#EXTINF:-1,tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="山西",山西社会与法治HD
+#EXTINF:-1,tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="山西",山西社会与法治
 http://192.168.90.1:8686/rtp/226.0.1.83:2005
-#EXTINF:-1,tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/shanxi_.png" group-title="山西",山西文体生活HD
+#EXTINF:-1,tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/shanxi_.png" group-title="山西",山西文体生活
 http://192.168.90.1:8686/rtp/226.0.1.200:2006
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://192.168.90.1:8686/rtp/226.0.1.157:3086
