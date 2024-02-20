@@ -127,7 +127,7 @@ http://192.168.90.1:8686/rtp/226.0.1.202:2085
 http://192.168.90.1:8686/rtp/226.0.1.203:2086
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其他",金鹰卡通HD
 http://192.168.90.1:8686/rtp/226.0.1.90:2078
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他",卡酷少儿
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他",卡酷少儿
 http://192.168.90.1:8686/rtp/226.0.1.57:3059
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
 http://192.168.90.1:8686/rtp/226.0.1.108:2096
@@ -153,7 +153,7 @@ http://192.168.90.1:8686/rtp/226.0.1.174:2098
 http://192.168.90.1:8686/rtp/226.0.1.176:2100
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其他",生活时尚HD
 http://192.168.90.1:8686/rtp/226.0.1.196:2101
-#EXTINF:-1,tvg-id="乐游HD" tvg-name="乐游HD" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="其他",乐游HD
+#EXTINF:-1,tvg-id="乐游HD" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="其他",乐游HD
 http://192.168.90.1:8686/rtp/226.0.1.198:2103
 #EXTINF:-1,tvg-id="证券服务" tvg-name="证券服务" tvg-logo="https://live.fanmingming.com/tv/证券服务.png" group-title="其他",证券服务
 http://192.168.90.1:8686/rtp/226.0.1.71:2104
@@ -197,7 +197,7 @@ http://192.168.90.1:8686/rtp/226.0.1.111:3183
 http://192.168.90.1:8686/rtp/226.0.1.112:3185
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视频道",女性时尚
 http://192.168.90.1:8686/rtp/226.0.1.210:2128
-#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="其他",梨园HD
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png.png" group-title="其他",梨园HD
 http://192.168.90.1:8686/rtp/226.0.1.115:3219
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://live.fanmingming.com/tv/国学.png" group-title="其他",国学
 http://192.168.90.1:8686/rtp/226.0.1.116:3192
