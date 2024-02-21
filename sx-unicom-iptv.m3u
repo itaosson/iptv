@@ -227,12 +227,6 @@ http://192.168.90.1:8686/rtp/226.0.1.132:3143
 http://192.168.90.1:8686/rtp/226.0.1.138:3133
 #EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="数字频道",财富天下
 http://192.168.90.1:8686/rtp/226.0.1.139:3162
-#EXTINF:-1,tvg-id="长钢HD" tvg-name="长钢HD" tvg-logo="https://live.fanmingming.com/tv/长钢.png" group-title="山西",长钢HD
-http://192.168.90.1:8686/rtp/226.0.1.199:2170
-#EXTINF:-1,tvg-id="霍州煤电HD" tvg-name="霍州煤电HD" tvg-logo="https://live.fanmingming.com/tv/霍州煤电.png" group-title="山西",霍州煤电HD
-http://192.168.90.1:8686/rtp/226.0.1.223:2174
-#EXTINF:-1,tvg-id="大同教育HD" tvg-name="大同教育HD" tvg-logo="https://live.fanmingming.com/tv/大同教育.png" group-title="山西",大同教育HD
-http://192.168.90.1:8686/rtp/226.0.1.105:2173
 #EXTINF:-1,tvg-id="太原一套新闻综合频道" tvg-name="太原一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/95c48c6f78c65e30925baa02f5f8ba67.jpg" group-title="山西",太原-1 新闻综合
 http://192.168.90.1:8686/rtp/226.0.1.225:2001
 #EXTINF:-1,tvg-id="太原二套百姓频道" tvg-name="太原二套百姓频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/28a19cccc72860ad1f1d99a11e47a468.jpg" group-title="山西",太原-2 百姓频道
@@ -243,37 +237,13 @@ http://192.168.90.1:8686/rtp/226.0.1.227:2003
 http://192.168.90.1:8686/rtp/226.0.1.228:2004
 #EXTINF:-1,tvg-id="太原五套文体频道" tvg-name="太原五套文体频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/c63138be80542e8678848dcad81e20ec.jpg" group-title="山西",太原-5 文体频道
 http://192.168.90.1:8686/rtp/226.0.1.229:2005
-#EXTINF:-1,tvg-id="太原教育电视台" tvg-name="太原教育电视台" tvg-logo="https://live.fanmingming.com/tv/太原教育电视台.png" group-title="山西",太原教育电视台
-http://192.168.90.1:8686/rtp/226.0.1.230:2006
-#EXTINF:-1,tvg-id="清徐HD" tvg-name="清徐HD" tvg-logo="https://live.fanmingming.com/tv/清徐.png" group-title="山西",清徐HD
-http://192.168.90.1:8686/rtp/226.0.1.78:2007
-#EXTINF:-1,tvg-id="古交频道HD" tvg-name="古交频道HD" tvg-logo="https://live.fanmingming.com/tv/古交频道.png" group-title="山西",古交频道HD
-http://192.168.90.1:8686/rtp/226.0.1.204:2008
-#EXTINF:-1,tvg-id="阳曲频道" tvg-name="阳曲频道" tvg-logo="https://live.fanmingming.com/tv/阳曲.png" group-title="山西",阳曲频道
-http://192.168.90.1:8686/rtp/226.0.1.207:2009
-#EXTINF:-1,tvg-id="阳泉1" tvg-name="阳泉1" tvg-logo="https://live.fanmingming.com/tv/阳泉1.png" group-title="山西",阳泉1
+#EXTINF:-1,tvg-id="阳泉新闻综合频道" tvg-name="阳泉新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1025/5a58a0e26a99892e5c7373d8c0d796b2.jpg" group-title="山西",阳泉-1 新闻综合
 http://192.168.90.1:8686/rtp/226.0.1.91:2011
-#EXTINF:-1,tvg-id="阳泉2" tvg-name="阳泉2" tvg-logo="https://live.fanmingming.com/tv/阳泉2.png" group-title="山西",阳泉2
+#EXTINF:-1,tvg-id="阳泉科教频道" tvg-name="阳泉科教频道" tvg-logo="https://live.fanmingming.com/tv/阳泉2.png" group-title="山西",阳泉-2 科教频道
 http://192.168.90.1:8686/rtp/226.0.1.92:2012
-#EXTINF:-1,tvg-id="平定综合" tvg-name="平定综合" tvg-logo="https://live.fanmingming.com/tv/平定综合.png" group-title="山西",平定综合
-http://192.168.90.1:8686/rtp/226.0.1.216:2014
-#EXTINF:-1,tvg-id="朔州一台" tvg-name="朔州一台" tvg-logo="https://live.fanmingming.com/tv/朔州一台.png" group-title="山西",朔州一台
-http://192.168.90.1:8686/rtp/226.0.1.179:3104
-#EXTINF:-1,tvg-id="朔州二台" tvg-name="朔州二台" tvg-logo="https://live.fanmingming.com/tv/朔州二台.png" group-title="山西",朔州二台
-http://192.168.90.1:8686/rtp/226.0.1.180:3105
-#EXTINF:-1,tvg-id="屯留频道" tvg-name="屯留频道" tvg-logo="https://live.fanmingming.com/tv/屯留.png" group-title="山西",屯留频道
-http://192.168.90.1:8686/rtp/226.0.1.208:2036
-#EXTINF:-1,tvg-id="灵石综合" tvg-name="灵石综合" tvg-logo="https://live.fanmingming.com/tv/灵石综合.png" group-title="山西",灵石综合
-http://192.168.90.1:8686/rtp/226.0.1.206:2062
-#EXTINF:-1,tvg-id="运城-1HD" tvg-name="运城-1HD" tvg-logo="https://live.fanmingming.com/tv/运城1.png" group-title="山西",运城-1HD
+#EXTINF:-1,tvg-id="运城一套新闻综合频道" tvg-name="运城一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small1169b8b887d3df8600d6271355339f221517314723.jpg" group-title="山西",运城-1 新闻综合
 http://192.168.90.1:8686/rtp/226.0.1.224:2071
-#EXTINF:-1,tvg-id="运城-2HD" tvg-name="运城-2HD" tvg-logo="https://live.fanmingming.com/tv/运城2.png" group-title="山西",运城-2HD
+#EXTINF:-1,tvg-id="运城二套公共频道" tvg-name="运城二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small157f52c45c35f6e43017b68b7fb36f6c1517314850.jpg" group-title="山西",运城-2 公共频道
 http://192.168.90.1:8686/rtp/226.0.1.231:2072
-#EXTINF:-1,tvg-id="运城-3HD" tvg-name="运城-3HD" tvg-logo="https://live.fanmingming.com/tv/运城3.png" group-title="山西",运城-3HD
+#EXTINF:-1,tvg-id="运城三套科教频道" tvg-name="运城三套科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small9c5e724ad76565e008ec5a7544276f3d1517314935.jpg" group-title="山西",运城-3 科教频道
 http://192.168.90.1:8686/rtp/226.0.1.232:2073
-#EXTINF:-1,tvg-id="孝义频道" tvg-name="孝义频道" tvg-logo="https://live.fanmingming.com/tv/孝义.png" group-title="山西",孝义频道
-http://192.168.90.1:8686/rtp/226.0.1.195:3123
-#EXTINF:-1,tvg-id="潞州电视台HD" tvg-name="潞州电视台HD" tvg-logo="https://live.fanmingming.com/tv/潞州电视台.png" group-title="山西",潞州电视台HD
-http://192.168.90.1:8686/rtp/226.0.1.133:2125
-#EXTINF:-1,tvg-id="娄烦综合频道HD" tvg-name="娄烦综合频道HD" tvg-logo="https://live.fanmingming.com/tv/娄烦综合频道.png" group-title="山西",娄烦综合频道HD
-http://192.168.90.1:8686/rtp/226.0.1.222:2010
