@@ -233,15 +233,15 @@ http://192.168.90.1:8686/rtp/226.0.1.199:2170
 http://192.168.90.1:8686/rtp/226.0.1.223:2174
 #EXTINF:-1,tvg-id="大同教育HD" tvg-name="大同教育HD" tvg-logo="https://live.fanmingming.com/tv/大同教育.png" group-title="山西",大同教育HD
 http://192.168.90.1:8686/rtp/226.0.1.105:2173
-#EXTINF:-1,tvg-id="太原-1" tvg-name="太原-1" tvg-logo="https://live.fanmingming.com/tv/太原1.png" group-title="山西",太原-1
+#EXTINF:-1,tvg-id="太原一套新闻综合频道" tvg-name="太原一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/95c48c6f78c65e30925baa02f5f8ba67.jpg" group-title="山西",太原-1 新闻综合
 http://192.168.90.1:8686/rtp/226.0.1.225:2001
-#EXTINF:-1,tvg-id="太原-2" tvg-name="太原-2" tvg-logo="https://live.fanmingming.com/tv/太原2.png" group-title="山西",太原-2
+#EXTINF:-1,tvg-id="太原二套百姓频道" tvg-name="太原二套百姓频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/28a19cccc72860ad1f1d99a11e47a468.jpg" group-title="山西",太原-2 百姓频道
 http://192.168.90.1:8686/rtp/226.0.1.226:2002
-#EXTINF:-1,tvg-id="太原-3" tvg-name="太原-3" tvg-logo="https://live.fanmingming.com/tv/太原3.png" group-title="山西",太原-3
+#EXTINF:-1,tvg-id="太原三套法制频道" tvg-name="太原三套法制频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/small02e7c0bdab0a37a8fbab428fe8f79b511477324449.jpg" group-title="山西",太原-3 社教法制
 http://192.168.90.1:8686/rtp/226.0.1.227:2003
-#EXTINF:-1,tvg-id="太原-4" tvg-name="太原-4" tvg-logo="https://live.fanmingming.com/tv/太原4.png" group-title="山西",太原-4
+#EXTINF:-1,tvg-id="太原四套影视频道" tvg-name="太原四套影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/ed022450acc4281b14490da1d24fd853.jpg" group-title="山西",太原-4 影视频道
 http://192.168.90.1:8686/rtp/226.0.1.228:2004
-#EXTINF:-1,tvg-id="太原-5" tvg-name="太原-5" tvg-logo="https://live.fanmingming.com/tv/太原5.png" group-title="山西",太原-5
+#EXTINF:-1,tvg-id="太原五套文体频道" tvg-name="太原五套文体频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/c63138be80542e8678848dcad81e20ec.jpg" group-title="山西",太原-5 文体频道
 http://192.168.90.1:8686/rtp/226.0.1.229:2005
 #EXTINF:-1,tvg-id="太原教育电视台" tvg-name="太原教育电视台" tvg-logo="https://live.fanmingming.com/tv/太原教育电视台.png" group-title="山西",太原教育电视台
 http://192.168.90.1:8686/rtp/226.0.1.230:2006
