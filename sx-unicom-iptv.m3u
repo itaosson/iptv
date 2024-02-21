@@ -3,7 +3,7 @@
 http://192.168.90.1:8686/rtp/226.0.1.85:2001
 #EXTINF:-1,tvg-id="黄河卫视" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河
 http://192.168.90.1:8686/rtp/226.0.1.84:2002
-#EXTINF:-1,tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="山西",山西经济与科技
+#EXTINF:-1,tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="山西",山西经济与科技
 http://192.168.90.1:8686/rtp/226.0.1.81:2003
 #EXTINF:-1,tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视
 http://192.168.90.1:8686/rtp/226.0.1.82:2004
