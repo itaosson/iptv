@@ -245,5 +245,5 @@ http://192.168.90.1:8686/rtp/226.0.1.92:2012
 http://192.168.90.1:8686/rtp/226.0.1.224:2071
 #EXTINF:-1,tvg-id="运城二套公共频道" tvg-name="运城二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small157f52c45c35f6e43017b68b7fb36f6c1517314850.jpg" group-title="山西",运城-2 公共频道
 http://192.168.90.1:8686/rtp/226.0.1.231:2072
-#EXTINF:-1,tvg-id="运城三套科教频道" tvg-name="运城三套科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small9c5e724ad76565e008ec5a7544276f3d1517314935.jpg" group-title="山西",运城-3 科教频道
+#EXTINF:-1,tvg-id="运城三套盐湖频道" tvg-name="运城三套盐湖频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small9c5e724ad76565e008ec5a7544276f3d1517314935.jpg" group-title="山西",运城-3 盐湖频道
 http://192.168.90.1:8686/rtp/226.0.1.232:2073
