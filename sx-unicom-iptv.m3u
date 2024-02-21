@@ -239,7 +239,7 @@ http://192.168.90.1:8686/rtp/226.0.1.228:2004
 http://192.168.90.1:8686/rtp/226.0.1.229:2005
 #EXTINF:-1,tvg-id="阳泉新闻综合频道" tvg-name="阳泉新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1025/5a58a0e26a99892e5c7373d8c0d796b2.jpg" group-title="山西",阳泉-1 新闻综合
 http://192.168.90.1:8686/rtp/226.0.1.91:2011
-#EXTINF:-1,tvg-id="阳泉科教频道" tvg-name="阳泉科教频道" tvg-logo="https://live.fanmingming.com/tv/阳泉2.png" group-title="山西",阳泉-2 科教频道
+#EXTINF:-1,tvg-id="阳泉科教频道" tvg-name="阳泉科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1025/3780e84d86cb02d5bfe833ff20839042.jpg" group-title="山西",阳泉-2 科教频道
 http://192.168.90.1:8686/rtp/226.0.1.92:2012
 #EXTINF:-1,tvg-id="运城一套新闻综合频道" tvg-name="运城一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small1169b8b887d3df8600d6271355339f221517314723.jpg" group-title="山西",运城-1 新闻综合
 http://192.168.90.1:8686/rtp/226.0.1.224:2071
