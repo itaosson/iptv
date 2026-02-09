@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[超清HDR]
 http://happylive.asuscomm.com:8888/rtp/239.3.1.118:8001
 # #EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[高清]
